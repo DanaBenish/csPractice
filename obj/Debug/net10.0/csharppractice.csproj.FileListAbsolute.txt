@@ -1,0 +1,14 @@
+/Users/danabenish/csharppractice/csharppractice/bin/Debug/net10.0/csharppractice
+/Users/danabenish/csharppractice/csharppractice/bin/Debug/net10.0/csharppractice.deps.json
+/Users/danabenish/csharppractice/csharppractice/bin/Debug/net10.0/csharppractice.runtimeconfig.json
+/Users/danabenish/csharppractice/csharppractice/bin/Debug/net10.0/csharppractice.dll
+/Users/danabenish/csharppractice/csharppractice/bin/Debug/net10.0/csharppractice.pdb
+/Users/danabenish/csharppractice/csharppractice/obj/Debug/net10.0/csharppractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danabenish/csharppractice/csharppractice/obj/Debug/net10.0/csharppractice.AssemblyInfoInputs.cache
+/Users/danabenish/csharppractice/csharppractice/obj/Debug/net10.0/csharppractice.AssemblyInfo.cs
+/Users/danabenish/csharppractice/csharppractice/obj/Debug/net10.0/csharppractice.csproj.CoreCompileInputs.cache
+/Users/danabenish/csharppractice/csharppractice/obj/Debug/net10.0/csharppractice.dll
+/Users/danabenish/csharppractice/csharppractice/obj/Debug/net10.0/refint/csharppractice.dll
+/Users/danabenish/csharppractice/csharppractice/obj/Debug/net10.0/csharppractice.pdb
+/Users/danabenish/csharppractice/csharppractice/obj/Debug/net10.0/csharppractice.genruntimeconfig.cache
+/Users/danabenish/csharppractice/csharppractice/obj/Debug/net10.0/ref/csharppractice.dll
