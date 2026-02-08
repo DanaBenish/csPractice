@@ -12,3 +12,4 @@
 /Users/danabenish/csharppractice/csharppractice/obj/Debug/net10.0/csharppractice.pdb
 /Users/danabenish/csharppractice/csharppractice/obj/Debug/net10.0/csharppractice.genruntimeconfig.cache
 /Users/danabenish/csharppractice/csharppractice/obj/Debug/net10.0/ref/csharppractice.dll
+/Users/danabenish/csharppractice/csharppractice/obj/Debug/net10.0/csharppractice.sourcelink.json

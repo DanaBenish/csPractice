@@ -15,7 +15,7 @@ namespace OOPPractice
             this.name = name;
         }
 
-        public void Greet()
+        public virtual void Greet()
         {
             Console.WriteLine($"Hello, my name is " + name + '!');
         }

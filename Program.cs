@@ -7,5 +7,12 @@ class Program
     {
         Person person1 = new Person("Alice");
         person1.Greet();
+
+        Student student1 = new Student("Bob", 12345);
+        student1.Greet();
+
+        Intern intern1 = new Intern("Dave");
+        intern1.Greet();
+        intern1.Work();
     }
 }
